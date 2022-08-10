@@ -1,0 +1,31 @@
+/* Desktop style */
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: url(/images/WestJava.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 15% 35%;
+}
+.top-section {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.content-title {
+    text-align: center;
+}
+.menu-list {
+    display: flex;
+    justify-content: center;
+}
+.menu-item {
+    margin-top: 15px;
+    margin-right: 5px;
+    text-decoration: none;
+}
+.image-cover {
+    align-items: center;
+}
+/* Mobile style */
