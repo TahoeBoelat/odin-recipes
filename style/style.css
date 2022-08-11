@@ -39,12 +39,12 @@
 .article-section-about {
     margin: 40px;
 }
-.ingridients-title, .step-title {
+.ingredients-title, .step-title {
     margin-top: 15px;
     margin-left: 45px;
     margin-bottom: 15px;
 }
-.ingridients-container, .step-container {
+.ingredients-container, .step-container {
     display: flex;
     margin-top: 15px;
     margin-left: 45px;
